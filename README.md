@@ -1,5 +1,5 @@
-# Agent4IP catalog
+# Agent4IP interactive preview
 
-[Open the interactive catalog](https://boyizou.github.io/agent4ip-catalog/)
+[Open the interface in your browser](https://boyizou.github.io/agent4ip-catalog/)
 
-Explore PDE inverse problems, dataset designs, measurement protocols and agent integration guides. Anyone can browse the website. Published files are generated from the project's development branch.
+Explore the benchmark and agent screens using illustrative examples. No account is required. This repository contains the browser assets for the public preview.
