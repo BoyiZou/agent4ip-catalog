@@ -624,7 +624,11 @@ dialog::backdrop {
   font-weight: 600;
 }
 
-#agent-task {
+.agent-handoff > select + label {
+  margin-top: 12px;
+}
+
+.agent-handoff > select {
   max-width: 100%;
   padding: 9px 12px;
   border: 1px solid var(--line);
